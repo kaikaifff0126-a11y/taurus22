@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="taurus1.vcxproj" Id="86db35c9-800b-4404-a8fe-851c98b4d7a5" />
+</Solution>
